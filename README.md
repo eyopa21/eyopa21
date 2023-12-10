@@ -13,15 +13,15 @@
 
 - 👯 I’m looking to collaborate on [Geezbyte Technologies](www.geezbyte.com)
 
-- 👨‍💻 All of my projects are available at [https://eyopaa.netlify.app](https://eyoba.netlify.app)
+- 👨‍💻 All of my projects are available at [https://eyoba-blog.netlify.app](https://eyoba-blog.netlify.app/projects)
 
-- 📝 I regularly write articles on [https://eyopaa.netlify.app](https://eyoba.netlify.app)
+- 📝 I regularly write articles on [https://eyoba-blog.netlify.app](https://eyoba-blog.netlify.app/blogs)
 
 - 💬 Ask me about **Vue js, Nuxt3, Express js and Hasura**
 
-- 📫 How to reach me **https://eyopaa.netlify.app**
+- 📫 How to reach me **https://eyoba-blog.netlify.app**
 
-- 📄 Know about my experiences [https://eyopaa.netlify.app](https://eyoba.netlify.app)
+- 📄 Know about my experiences [https://eyoba-blog.netlify.app](https://eyoba-blog.netlify.app)
 
 - ⚡ Fun fact **Bazinga...**
 
