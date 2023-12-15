@@ -7,13 +7,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyopa21" alt="eyopa21" /></a> </p>
 
-- 🔭 I’m currently working on [Geezbyte-meeting](https://geezbyte-meeting.netlify.app)
+
 
 - 🌱 I’m currently learning **Nuxt3, Vue js, Quasar, tailwind and hasura**
 
-- 👯 I’m looking to collaborate on [Geezbyte Technologies](www.geezbyte.com)
-
-- 👨‍💻 All of my projects are available at [https://eyoba-blog.netlify.app](https://eyoba-blog.netlify.app/projects)
 
 - 📝 I regularly write articles on [https://eyoba-blog.netlify.app](https://eyoba-blog.netlify.app/blogs)
 
@@ -21,7 +18,6 @@
 
 - 📫 How to reach me **https://eyoba-blog.netlify.app**
 
-- 📄 Know about my experiences [https://eyoba-blog.netlify.app](https://eyoba-blog.netlify.app)
 
 - ⚡ Fun fact **Bazinga...**
 
