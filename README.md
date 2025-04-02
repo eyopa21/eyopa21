@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://eyoba-blog.netlify.app](https://eyoba-blog.netlify.app/blogs)
 
-- 💬 Ask me about **Vue js, Nuxt3, Express js and Hasura**
+- 💬 Ask me about **Typescript, Vuejs, Nuxtjs, Nestjs, Nodejs and Kubernetes**
 
 - 📫 How to reach me **https://eyoba-blog.netlify.app**
 
