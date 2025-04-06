@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Eyob here..</h1>
-<h3 align="center">A passionate Software engineer(fullstack web developer) from Ethiopia</h3>
+<h3 align="center">A senior Software engineer(fullstack web developer) from Ethiopia</h3>
 
 
 
@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **Nuxt3, Vue js, Quasar, tailwind and hasura**
+- 🌱 I’m currently learning **Kubernetes, Openshift, terraform and Jenkins**
 
 
 - 📝 I regularly write articles on [https://eyoba-blog.netlify.app](https://eyoba-blog.netlify.app/blogs)
