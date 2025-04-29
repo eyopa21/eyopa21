@@ -12,11 +12,11 @@
 - 🌱 I’m currently learning **Kubernetes, Openshift, terraform and Jenkins**
 
 
-- 📝 I regularly write articles on [https://eyoba-blog.netlify.app](https://eyoba-blog.netlify.app/blogs)
+- 📝 I regularly write articles on [www.eyoba.dev](https://www.eyoba.dev)
 
 - 💬 Ask me about **Typescript, Vuejs, Nuxtjs, Nestjs, Nodejs and Kubernetes**
 
-- 📫 How to reach me **https://eyoba-blog.netlify.app**
+- 📫 How to reach me **www.eyoba.dev**
 
 
 - ⚡ Fun fact **Bazinga...**
